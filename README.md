@@ -6,7 +6,7 @@ Image are available at https://hub.docker.com/repository/docker/amanskywalker/py
 
 To use the latest image in the project ```docker pull amanskywalker/python-gis:latest```
 
-Supported python versions 3.9. 3.10, 3.11
+Supported python versions 3.9. 3.10, 3.11, 3.12
 
 ### Reason to build this
 This is the base containe for the another docker builds
